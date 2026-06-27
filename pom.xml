@@ -7,7 +7,15 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <name>CommonsSpotless</name>
     <description>Shared Spotless/Eclipse formatter configuration for the omnaest workspace.</description>
+    <url>https://github.com/omnaest/CommonsSpotless</url>
+
+    <scm>
+        <connection>scm:git:git://github.com/omnaest/CommonsSpotless.git</connection>
+        <developerConnection>scm:git:ssh://github.com/omnaest/CommonsSpotless.git</developerConnection>
+        <url>https://github.com/omnaest/CommonsSpotless</url>
+    </scm>
 
     <licenses>
         <license>
